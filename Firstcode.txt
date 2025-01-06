@@ -1,1 +1,2 @@
-Hello Iam Sandeep Chinnaboina
+Hello Iam Sandeep Chinnaboina   
+Specialization : Data Science and Big data Analytics
